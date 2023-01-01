@@ -1,0 +1,34 @@
+NOTE:
+Everything  works perfectly.
+The improvements are funny.
+
+
+#1 5 /5 draws given landscape file
+
+#2 5 /5 adequate ship drawn in proper position with proper orientation
+
+#3 5 /5 rotates properly
+
+#4 15 /15 thruster movement
+
+#5 10 /10 can crash ship
+
+#6 2.5 /2.5 must press q to quit, can press q to quit
+
+#7 5 /5 ship does not go off edge of screen
+
+
+#8 2.5 /2.5 must press a key to start
+
+#9  10 /10 can land ship
+
+#10 5/5 rotates while falling
+
+#11 10 /10 gravity
+
+
+#12 5 /5 valgrind and other errors
+
+
+#12 15 /20 improvements on online lander
+     
